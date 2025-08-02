@@ -9,10 +9,13 @@
 
 - 🎓 I'm currently studying Software Engineering
 - 🌱 I'm allways looking to grow and learn new things
-- 🤠 I’m interested in collaborating on innovative and meaningful projects  
-- 💬 
+- 🤠 I’m interested in collaborating on innovative and meaningful projects
+  
+<br/>
+
 - 📬 Reach me at nicoursino.007@gmail.com
-- ⚡
+- 🚂 Media: https://www.instagram.com/nicoursino_/
+  
 
 <br/>
 <br/>
